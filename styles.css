@@ -1,0 +1,21 @@
+body {
+    background-color: rgba(184, 153, 73, 0.738);
+}
+
+h1 {
+    color: rgb(50,  66, 3);
+}
+
+ul {
+    color: rgb(50, 66, 3);
+}
+
+tr {
+    color: rgb(50, 66, 3);
+}
+
+h4 {
+    color: rgb(50, 66, 3);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: blanchedalmond;
+}
